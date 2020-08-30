@@ -1,4 +1,4 @@
-@@ def second_supply_for_fourth_of_july(holiday_hash)
+ def second_supply_for_fourth_of_july(holiday_hash)
   #   }
   # }
   # return the second element in the 4th of July array
@@ -36,7 +36,7 @@ def all_winter_holiday_supplies(holiday_hash)
 
 end
 
-@@ -53,13 +60,27 @@ def all_supplies_in_holidays(holiday_hash)
+def all_supplies_in_holidays(holiday_hash)
   # Summer:
   #   Fourth Of July: Fireworks, BBQ
   # etc.
